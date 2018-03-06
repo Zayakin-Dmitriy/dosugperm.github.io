@@ -1,0 +1,24 @@
+
+.header{
+	border: solid 1px;
+	display: table;
+	width: 100%;
+
+}
+.logo1{
+	display: table-cell;
+	width: 80%;
+}
+
+.logins{
+	border: solid 1px;
+	display: table-cell;
+	width: 20%;
+}
+.content2{
+	border: 1px solid;
+}
+.footer{
+	height: 300px;
+	border: 1px solid;
+}
